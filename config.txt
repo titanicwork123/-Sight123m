@@ -1,6 +1,6 @@
-token=NDg4NDAwMzk0ODQyODAwMTI5.DnbrKw.V3__flLlkHqtnHohYHEQzFKM5wA
-owner=331081268731052042 
-prefix=!
-game=Baktash-bot
+token=NTA1ODE5MzU5ODE4ODA5MzQ1.DrZLcw.sXSDUJowyeDud_J5_E652sDLoYI
+owner=474175378118803466
+prefix=S
+game=Type Shelp
 stayinchannel=true
 songinstatus=true
